@@ -1,0 +1,1 @@
+This program was developed to extract the element of a assessment and the corresponding emotional tendency.
